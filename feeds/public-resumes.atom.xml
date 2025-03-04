@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Om Resume - Public Resume's</title><link href="/" rel="alternate"></link><link href="/feeds/public-resumes.atom.xml" rel="self"></link><id>/</id><updated>2025-02-11T19:30:00-06:00</updated><entry><title>Om's Resume</title><link href="/my-super-post.html" rel="alternate"></link><published>2025-02-11T10:20:00-06:00</published><updated>2025-02-11T19:30:00-06:00</updated><author><name>Om Sevak</name></author><id>tag:None,2025-02-11:/my-super-post.html</id><summary type="html">&lt;p&gt;Hello Everyone, This is Om, Go nuts on my resume!!&lt;/p&gt;</summary><content type="html">&lt;p&gt;This website is to share your resume and have it critiqued&lt;/p&gt;
+&lt;h1&gt;Om Sevak&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; Winnipeg, MB, Canada   &lt;strong&gt;Phone:&lt;/strong&gt; (204) 441-3232  &lt;strong&gt;Email:&lt;/strong&gt; &lt;a href="mailto:omsevak252002@gmail.com"&gt;omsevak252002@gmail.com&lt;/a&gt;  &lt;strong&gt;LinkedIn:&lt;/strong&gt; &lt;a href="https://linkedin.com/in/Om-Sevak"&gt;Om-Sevak&lt;/a&gt;  &lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href="https://github.com/Om-Sevak"&gt;Om-Sevak&lt;/a&gt;  &lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;Education&lt;/h2&gt;
+&lt;h3&gt;&lt;em&gt;University of Manitoba&lt;/em&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Bachelor of Science in Computer Science (Co-op) | Sep 2020 – May 2025 (Expected)&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Location:&lt;/strong&gt; Winnipeg, MB&lt;br&gt;
+- &lt;strong&gt;Relevant Coursework&lt;/strong&gt;: Software Engineering, Distributed Systems, Artificial Intelligence  &lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;Experience&lt;/h2&gt;
+&lt;h3&gt;&lt;em&gt;CIBC&lt;/em&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;DevOps Analyst (Co-op) | May 2024 – Aug 2024&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Location:&lt;/strong&gt; Toronto, ON&lt;br&gt;
+- Automated deletion of unused Salesforce logs, reducing cross-team communication by &lt;strong&gt;5%&lt;/strong&gt; and minimizing deployment errors.
+- Developed an automation to create Salesforce build and deployment pipelines, reducing manual errors and setup time from &lt;strong&gt;6 minutes to 3 minutes&lt;/strong&gt;.
+- Identified automation opportunities during retrospectives, leading to a &lt;strong&gt;20%&lt;/strong&gt; increase in deployment efficiency.
+- Delivered presentations to DevOps and development teams, ensuring successful adoption of automation solutions.&lt;/p&gt;
+&lt;h3&gt;&lt;em&gt;IG Wealth Management&lt;/em&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Software Developer (Co-op) | Sep 2023 – Apr 2024&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Location:&lt;/strong&gt; Winnipeg, MB&lt;br&gt;
+- Created SQL-based HANA procedures for efficient calculation views, enhancing decision-making processes.
+- Enhanced Stonebranch workflows, boosting task execution efficiency by &lt;strong&gt;40%&lt;/strong&gt;.
+- Streamlined onboarding for &lt;strong&gt;10+&lt;/strong&gt; new hires by automating setup scripts and migrating from Bitbucket to GitHub.
+- Migrated deployment application from Bitbucket APIs to GitHub, supporting &lt;strong&gt;50+&lt;/strong&gt; deployments weekly.&lt;/p&gt;
+&lt;h3&gt;&lt;em&gt;Value Partners Investments&lt;/em&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Junior Cloud Developer (Co-op) | Jan 2023 – Apr 2023&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Location:&lt;/strong&gt; Winnipeg, MB&lt;br&gt;
+- Developed a full-stack application with React and Azure Functions to replace manual marketing slides with a real-time website.
+- Optimized Azure Functions for file processing, achieving a &lt;strong&gt;50%&lt;/strong&gt; reduction in runtime.
+- Established CI/CD pipelines via Azure DevOps, accelerating release cycles and reducing deployment errors.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;Projects&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/Om-Sevak/ClubHub"&gt;&lt;em&gt;ClubHub&lt;/em&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Jan 2024 – Apr 2024 | ReactJS, Express.js, Node.js, MongoDB, Docker, Azure Services&lt;/strong&gt;&lt;br&gt;
+- Developed a full-stack web app with a distributed architecture, enabling students to discover, join, and manage clubs seamlessly.&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/Om-Sevak/nba-role-predictor"&gt;&lt;em&gt;NBA Role Predictor&lt;/em&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Sep 2024 – Nov 2024 | Python, Pandas, Scikit-learn&lt;/strong&gt;&lt;br&gt;
+- Built a predictor using clustering and classification algorithms to group players by play style and predict roles for new players.&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/Om-Sevak/Inventory-Management-system"&gt;&lt;em&gt;Inventory Management System&lt;/em&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;May 2022 – Aug 2022 | Android Studio, Java, MySQL, JUnit, Espresso&lt;/strong&gt;&lt;br&gt;
+- Implemented an Android application to track and manage stock levels, item details, and categories for small retail stores.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;Extracurricular Activities&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://umsats.ca/"&gt;&lt;em&gt;University of Manitoba Space and Technology Society&lt;/em&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Club Member | Software Developer | May 2022 – Present&lt;/strong&gt;&lt;br&gt;
+- Contributing to CubeSat development for the Canadian Satellite Design Competition (Won the 2023 competition).
+- Collaborating with subsystem teams, providing feedback, and implementing hardware interaction using HAL in C on STM32.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;Technical Skills&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Languages:&lt;/strong&gt; C#, Java, C++, C, Python, JavaScript, SQL, PowerShell  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cloud &amp;amp; Tools:&lt;/strong&gt; Azure DevOps, Azure Functions, Docker, Git, CI/CD, SAP HANA, Stonebranch, REST APIs  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Frameworks &amp;amp; Libraries:&lt;/strong&gt; ReactJS, Node.js, .NET, Express.js  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Other:&lt;/strong&gt; Postman, Power BI, SQL Server, Visual Studio  &lt;/li&gt;
+&lt;/ul&gt;</content><category term="Public Resume's"></category><category term="pelican"></category><category term="publishing"></category></entry></feed>
