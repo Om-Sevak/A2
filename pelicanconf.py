@@ -1,5 +1,5 @@
 AUTHOR = 'Om Sevak'
-SITENAME = 'Resume-Critques'
+SITENAME = 'Om Resume'
 SITEURL = ""
 
 PATH = "content"
@@ -29,7 +29,7 @@ SOCIAL = (
     ("Another social link", "#"),
 )
 
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
